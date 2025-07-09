@@ -1,0 +1,42 @@
+h5{
+    color: black;
+    text-align: center;
+}
+
+.title{
+    color: #2c3e50;
+    margin-left: 500px;
+}
+
+.article{
+    margin-left:450px;
+}
+
+.main{
+    margin-left: 260px;
+    font-family:  sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px;
+    padding: 20px;
+}
+
+.book-card{
+    background-color: #eeeeee;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    padding: 15px;
+    margin-top: 10px;
+    text-align: center;
+    width: 350px;
+    margin-bottom: 50px;
+}
+
+.book-card img{
+    width: 280px;
+    height: auto;
+    object-fit: cover;
+}
