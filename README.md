@@ -1,3 +1,5 @@
+##To-Do
+
 - SAYFA GEÇİŞLERİ X
 - DURUM YÖNETİMİ (useState, UseEffect) X
 - LİSTELEME (MAP) X
