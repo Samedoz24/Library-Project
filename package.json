@@ -1,7 +1,6 @@
 {
   "name": "library-project",
   "version": "1.0.0",
-  "homepage": "https://Samedoz24.github.io/Library-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
